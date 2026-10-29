@@ -1,0 +1,20 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Développeur Full-Stack JS",
+      "description": "Développement d'applications web avec Vue.js et Node.js.",
+      "salary": "15000 MAD",
+      "createdAt": "2026-10-01",
+      "experience": 2
+    },
+    {
+      "id": 2,
+      "title": "Ingénieur IA & Data",
+      "description": "Conception et déploiement de modèles de Machine Learning.",
+      "salary": "18000 MAD",
+      "createdAt": "2026-10-15",
+      "experience": 3
+    }
+  ]
+}
